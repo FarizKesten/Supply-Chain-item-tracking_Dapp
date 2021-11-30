@@ -1,0 +1,5 @@
+project-6/build/*
+project-6/node_modules/*
+*.sit
+project-6/.secret
+images/.gitkeep
